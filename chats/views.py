@@ -3,7 +3,7 @@ import openai
 
 # Create your views here.
 
-key="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"
+key="USE YOUR API"
 
 openai.api_key = key
 
